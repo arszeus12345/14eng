@@ -1,0 +1,144 @@
+{
+    "BoxPhone": [
+        {
+            "name": "J6",
+            "stock": "Android 10",
+            "custom": "Android 11",
+            "configuration": "4 + 32",
+            "processor": "Exynos 7870",
+            "price": "$70 USD"
+        },
+        {
+            "name": "J7 Pro",
+            "stock": "Android 9.0",
+            "custom": "",
+            "configuration": "2 + 16",
+            "processor": "Exynos 7870",
+            "price": "$70 USD"
+        },
+        {
+            "name": "A6",
+            "stock": "Android 10",
+            "custom": "Android 11",
+            "configuration": "4 + 32",
+            "processor": "Exynos 7870",
+            "price": "$70 USD"
+        },
+        {
+            "name": "A7",
+            "stock": "Android 8.0",
+            "custom": "Android 11",
+            "configuration": "4/6 + 64",
+            "processor": "Exynos 7880",
+            "price": "$70 USD"
+        },
+        {
+            "name": "A8",
+            "stock": "Android 9.0",
+            "custom": "",
+            "configuration": "4 + 32",
+            "processor": "Exynos 7885",
+            "price": "$85 USD"
+        },
+        {
+            "name": "S7",
+            "stock": "Android 8.0",
+            "custom": "Android 11",
+            "configuration": "4 + 32",
+            "processor": "Exynos 8890",
+            "price": "$85 USD"
+        },
+        {
+            "name": "Note 5",
+            "stock": "Android 7.0",
+            "custom": "",
+            "configuration": "4 + 32",
+            "processor": "Exynos 7420",
+            "price": "$85 USD"
+        },
+        {
+            "name": "S8U",
+            "stock": "Android 9.0",
+            "custom": "",
+            "configuration": "4 + 64",
+            "processor": "Snapdragon 835",
+            "price": "$85 USD"
+        },
+        {
+            "name": "S8/S8+",
+            "stock": "Android 9.0",
+            "custom": "Android 11",
+            "configuration": "4/6 + 64",
+            "processor": "Exynos 8895",
+            "price": "$105 USD"
+        },
+        {
+            "name": "Note 8U",
+            "stock": "Android 9.0",
+            "custom": "",
+            "configuration": "6 + 64",
+            "processor": "Snapdragon 835",
+            "price": "$105 USD"
+        },
+        {
+            "name": "Note 8",
+            "stock": "Android 9.0",
+            "custom": "Android 11",
+            "configuration": "6 + 64",
+            "processor": "Exynos 8895",
+            "price": "$120 USD"
+        },
+        {
+            "name": "S9+",
+            "stock": "Android 10",
+            "custom": "Android 11",
+            "configuration": "4/6 + 64",
+            "processor": "Snapdragon 845",
+            "price": "$130 USD"
+        },
+        {
+            "name": "Note 9",
+            "stock": "Android 10",
+            "custom": "Android 11",
+            "configuration": "6/8 + 128",
+            "processor": "Exynos 9810",
+            "price": "$130 USD"
+        },
+        {
+            "name": "Note 10",
+            "stock": "Android 10",
+            "custom": "Android 13",
+            "configuration": "8 + 256",
+            "processor": "Exynos 9825",
+            "price": "$155 USD"
+        },
+        {
+            "name": "S10",
+            "stock": "Android 12",
+            "custom": "Android 13",
+            "configuration": "6/8 + 128",
+            "processor": "Exynos 9820",
+            "price": "$155 USD"
+        }
+    ],
+    "pcs": [
+        {
+            "model": "PC DUAL 2682v4",
+            "configuration": "Ram: 96Gb SSD: 1000GD, Ethernet: 1GB",
+            "price": "$120 USD"
+        },
+        {
+            "model": "PC Core I5-4x",
+            "configuration": "RAM: 4 SSD: 128 VGA: on board (Use 2 boxes or fewer)",
+            "price": "$50 USD"
+        }
+    ],
+    "vps": [
+        {
+            "model": "VPS CPU 2680v4 2core 4thread",
+            "configuration": "RAM: 8GB SSD: 80GD Ethernet: 100mb",
+            "price": "$20 USD"
+        }
+    ],
+    "note": "There are also many other types"
+}
