@@ -1,14 +1,6 @@
 {
     "BoxPhone": [
         {
-            "name": "J6",
-            "stock": "Android 10",
-            "custom": "Android 11",
-            "configuration": "4 + 32",
-            "processor": "Exynos 7870",
-            "price": "$70 USD"
-        },
-        {
             "name": "J7 Pro",
             "stock": "Android 9.0",
             "custom": "",
@@ -33,6 +25,14 @@
             "price": "$70 USD"
         },
         {
+            "name": "A6+",
+            "stock": "Android 10",
+            "custom": "Android 11",
+            "configuration": "3/4 + 32",
+            "processor": "Snapdragon 450",
+            "price": "$85 USD"
+        },
+        {
             "name": "A8",
             "stock": "Android 9.0",
             "custom": "",
@@ -41,19 +41,19 @@
             "price": "$85 USD"
         },
         {
+            "name": "J8",
+            "stock": "Android 10",
+            "custom": "Android 11",
+            "configuration": "3/4 + 32",
+            "processor": "Snapdragon 450",
+            "price": "$85 USD"
+        },
+        {
             "name": "S7",
             "stock": "Android 8.0",
             "custom": "Android 11",
             "configuration": "4 + 32",
             "processor": "Exynos 8890",
-            "price": "$85 USD"
-        },
-        {
-            "name": "Note 5",
-            "stock": "Android 7.0",
-            "custom": "",
-            "configuration": "4 + 32",
-            "processor": "Exynos 7420",
             "price": "$85 USD"
         },
         {
@@ -105,11 +105,27 @@
             "price": "$130 USD"
         },
         {
+            "name": "Z Flip",
+            "stock": "Android 12",
+            "custom": "",
+            "configuration": "8 + 256",
+            "processor": "Snapdragon 885+",
+            "price": "$150 USD"
+        },
+        {
             "name": "Note 10",
             "stock": "Android 10",
             "custom": "Android 13",
             "configuration": "8 + 256",
             "processor": "Exynos 9825",
+            "price": "$155 USD"
+        },
+        {
+            "name": "Z Flip 2",
+            "stock": "Android 12",
+            "custom": "",
+            "configuration": "8 + 256",
+            "processor": "Snapdragon 885+",
             "price": "$155 USD"
         },
         {
@@ -119,25 +135,49 @@
             "configuration": "6/8 + 128",
             "processor": "Exynos 9820",
             "price": "$155 USD"
+        },
+        {
+            "name": "Z Flip 3",
+            "stock": "Android 12",
+            "custom": "Android 13",
+            "configuration": "6/8 + 128",
+            "processor": "Snapdragon 888",
+            "price": "$170 USD"
+        },
+        {
+            "name": "S20",
+            "stock": "Android 13",
+            "custom": "",
+            "configuration": "8 + 128",
+            "processor": "Snapdragon 865",
+            "price": "$180 USD"
+        },
+        {
+            "name": "S20+",
+            "stock": "Android 12",
+            "custom": "Android 13",
+            "configuration": "6/8 + 128",
+            "processor": "Snapdragon 865",
+            "price": "$190 USD"
         }
     ],
     "pcs": [
         {
             "model": "PC DUAL 2682v4",
-            "configuration": "Ram: 96Gb SSD: 1000GD, Ethernet: 1GB",
+            "configuration": "Ram: 96Gb, SSD: 1000GD, Ethernet: 1GB",
             "price": "$120 USD"
         },
         {
             "model": "PC Core I5-4x",
-            "configuration": "RAM: 4 SSD: 128 VGA: on board (Use 2 boxes or fewer)",
-            "price": "$50 USD"
+            "configuration": "RAM: 4, SSD: 128, VGA: on board (Use 2 boxes or fewer)",
+            "price": "$60 USD"
         }
     ],
     "vps": [
         {
             "model": "VPS CPU 2680v4 2core 4thread",
             "configuration": "RAM: 8GB SSD: 80GD Ethernet: 100mb",
-            "price": "$20 USD"
+            "price": "$40 USD"
         }
     ],
     "note": "There are also many other types"
