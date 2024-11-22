@@ -161,23 +161,20 @@
             "price": "$190 USD"
         }
     ],
-    "pcs": [
-        {
-            "model": "PC DUAL 2682v4",
-            "configuration": "Ram: 96Gb, SSD: 1000GD, Ethernet: 1GB",
-            "price": "$120 USD"
+    "pcs": [ {
+            "model": "VPS CPU 2680v4 2core 4thread",
+            "configuration": "RAM: 8GB SSD: 80GD Ethernet: 100mb (Use maximum 1 box)",
+            "price": "$40 USD"
         },
         {
             "model": "PC Core I5-4x",
             "configuration": "RAM: 4, SSD: 128, VGA: on board (Use 2 boxes or fewer)",
             "price": "$60 USD"
-        }
-    ],
-    "vps": [
+        },
         {
-            "model": "VPS CPU 2680v4 2core 4thread",
-            "configuration": "RAM: 8GB SSD: 80GD Ethernet: 100mb",
-            "price": "$40 USD"
+            "model": "PC DUAL 2682v4",
+            "configuration": "Ram: 96Gb, SSD: 1000GD, Ethernet: 1GB (Use up to 6 boxes)",
+            "price": "$120 USD"
         }
     ],
     "note": "There are also many other types"
