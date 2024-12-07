@@ -146,8 +146,8 @@
         },
         {
             "name": "S20+",
-            "stock": "Android 12",
-            "custom": "Android 13",
+            "stock": "Android 13",
+            "custom": "",
             "configuration": "8 + 128",
             "processor": "Snapdragon 865",
             "price": "$190 USD"
