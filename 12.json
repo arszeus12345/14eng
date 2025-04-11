@@ -165,7 +165,7 @@
         },
         {
             "model": "PC DUAL 2680v3-2682v4",
-            "configuration": "Ram: 96GB, SSD: 512-1000GB, Ethernet: 1GB (Use up to 6 boxes)",
+            "configuration": "Ram: 64GB, SSD: 512-1000GB, Ethernet: 1GB (Use up to 6 boxes)",
             "price": "$120 USD"
         }
     ],
